@@ -1,1 +1,1 @@
-#computer-architechure-project
+#computer-architecture-project
